@@ -1,5 +1,3 @@
-**This version is for [ruhohSpec v2.0.alpha](http://ruhoh.com/edge/) and is only compatible with ruhoh 2.0.x**
-
 A default blog scaffold for **ruhoh** compatible static blog parsers.
 
 ## Usage
